@@ -1,5 +1,5 @@
 export const apiVersion = 'v1_1';
-export const defaultResourceType = 'image';
+export const defaultResourceType = 'video';
 
 export const defaultChunckSize = 20 * 1024 * 1024;
 export const defaultTimeout = 60;
